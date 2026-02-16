@@ -38,5 +38,5 @@ I'm Artyom (dtem4ik), a frontend engineer building scalable, production-grade we
 
 ### 🔗 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dtem4ik)
 
